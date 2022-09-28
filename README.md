@@ -1,6 +1,6 @@
-# TimeDifferences
+# TimeDifferences 🕧☑
 
-<p> __PT-BR__: Meus dois "primeiros" programas que fiz a um tempo. Um checa a diferença de tempo e o outro converte semanas em meses. 
+<p> **PT-BR** : Meus dois "primeiros" programas que fiz a um tempo. Um checa a diferença de tempo e o outro converte semanas em meses. 
 
 TimeDiff checa a data e faz o calculo para no final dizer, aproximadamente, baseado no consenso de que um mês tem aproximadamente 30 dias, quantos anos/meses/dias/horas/minutos se passaram desde a data inicial.
 
@@ -10,7 +10,7 @@ A lógica por trás do problema e do programa em si está feita, mesmo que o có
 
 <br> <br>
 
-<p> __EN__: My two "first" programs that I made a while ago. One checks difference in time and the other converts weeks to months. 
+<p> **EN** : My two "first" programs that I made a while ago. One checks difference in time and the other converts weeks to months. 
 
 TimeDiff checks the date and does the math to in the end say, aproximadetely, based on the consensus that a month has around 30 days, how many years/months/days/hours/minutes has passed since the initial date.
 
